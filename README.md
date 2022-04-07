@@ -326,3 +326,7 @@ doi:[10.2139/ssrn.4055643](https://doi.org/10.2139/ssrn.4055643).
 </div>
 
 </div>
+
+*A full list is also available on my
+[website](https://gillianmchugo.github.io) and
+[ORCID.](https://orcid.org/0000-0001-6920-0041)*

@@ -8,6 +8,8 @@ nocite: '@*'
 
 ## [Gillian McHugo](https://gillianmchugo.github.io)
 
+<div id="refs"></div>
+
 ```{r, include = F}
 # Install and load package
 if (!require(stringi)) install.packages("stringi")
@@ -40,3 +42,5 @@ README <- stri_replace_all_regex(
 
 writeLines(README, "README.md")
 ```
+
+*A full list is also available on my [website](https://gillianmchugo.github.io) and [ORCID.](https://orcid.org/0000-0001-6920-0041)*
