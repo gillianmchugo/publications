@@ -1,0 +1,42 @@
+---
+title: Publications
+output: github_document
+bibliography: publications.bib
+csl: harvard-cite-them-right-no-et-al.csl
+nocite: '@*'
+---
+
+## [Gillian McHugo](https://gillianmchugo.github.io)
+
+```{r, include = F}
+# Install and load package
+if (!require(stringi)) install.packages("stringi")
+library(stringi)
+
+# Read, edit and write README
+README <- readLines("publications.md")
+
+README <- stri_replace_all_regex(
+  README,
+  pattern = c("McHugo, G.P.",
+              "McHugo, G. ",
+              "McHugo, G.,",
+              "Bos",
+              "indicus",
+              "taurus",
+              "Mycobacterium",
+              "bovis",
+              "tuberculosis"),
+  replacement = c("**McHugo, G.P.**",
+                  "**McHugo, G.** ",
+                  "**McHugo, G.**,",
+                  "*Bos*",
+                  "*indicus*",
+                  "*taurus*",
+                  "*Mycobacterium*",
+                  "*bovis*",
+                  "*tuberculosis*"),
+  vectorize = F)
+
+writeLines(README, "README.md")
+```

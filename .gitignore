@@ -1,0 +1,6 @@
+*.Rproj
+*.Rhistory
+.Rproj.user/
+RIS/
+publications.md
+harvard-cite-them-right-no-et-al.csl
