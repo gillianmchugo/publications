@@ -1,5 +1,3 @@
-Publications
-================
 
 ## [Gillian McHugo](https://gillianmchugo.github.io)
 

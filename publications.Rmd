@@ -1,5 +1,4 @@
 ---
-title: Publications
 output: github_document
 bibliography: publications.bib
 csl: harvard-cite-them-right-no-et-al.csl
