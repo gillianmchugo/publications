@@ -1,7 +1,7 @@
 *.Rproj
 *.Rhistory
 .Rproj.user/
-RIS/
+files/
 publications.md
 publications.knit.md
 harvard-cite-them-right-no-et-al.csl

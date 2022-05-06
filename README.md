@@ -65,6 +65,18 @@ doi:[10.5061/dryad.8FK81](https://doi.org/10.5061/dryad.8FK81).
 
 </div>
 
+<div id="ref-correia2022biorxiv" class="csl-entry">
+
+Correia, C.N., **McHugo, G.P.**, Browne, J.A., McLoughlin, K.E., Nalpas,
+N.C., Magee, D.A., Whelan, A.O., Villarreal-Ramos, B., Vordermeier,
+H.M., Gormley, E., Gordon, S.V. and MacHugh, D.E. (2022)
+‘High-resolution transcriptomics of bovine purified protein
+derivative-stimulated peripheral blood from cattle infected with
+*Mycobacterium* *bovis* across an experimental time course’. bioRxiv.
+doi:[10.1101/2022.04.19.488769](https://doi.org/10.1101/2022.04.19.488769).
+
+</div>
+
 <div id="ref-dover2021irishjournalofmedicalscience" class="csl-entry">
 
 Dover, M.J., Hall, T.J., **McHugo, G.P.** and MacHugh, D.E. (2021) ‘A
@@ -231,7 +243,7 @@ doi:[10.6084/m9.figshare.c.5422454](https://doi.org/10.6084/m9.figshare.c.542245
 
 **McHugo, G.** (2015) *Mytilus edulis as a bioindicator of water pollution:
 Potential histopathology biomarkers in Dublin Bay and Newquay, Co.
-Clare*. BA (Hons) thesis. Trinity College Dublin.
+Clare*. BA (Mod) thesis. Trinity College Dublin.
 
 </div>
 
