@@ -5,7 +5,7 @@
 
 <div id="refs" class="references csl-bib-body">
 
-<div id="ref-browett2017biorxiv" class="csl-entry">
+<div id="ref-browettetal2017biorxiv" class="csl-entry">
 
 Browett, S., **McHugo, G.**, Richardson, I.W., Magee, D.A., Park, S.D.E.,
 Fahey, A.G., Kearney, J.F., Correia, C.N., Randhawa, I.A.S. and MacHugh,
@@ -15,7 +15,7 @@ doi:[10.1101/210229](https://doi.org/10.1101/210229).
 
 </div>
 
-<div id="ref-browett2018frontiersingenetics" class="csl-entry">
+<div id="ref-browettetal2018frontiersingenetics" class="csl-entry">
 
 Browett, S., **McHugo, G.**, Richardson, I.W., Magee, D.A., Park, S.D.E.,
 Fahey, A.G., Kearney, J.F., Correia, C.N., Randhawa, I.A.S. and MacHugh,
@@ -25,7 +25,7 @@ doi:[10.3389/fgene.2018.00051](https://doi.org/10.3389/fgene.2018.00051).
 
 </div>
 
-<div id="ref-browett2018frontiersingenetics1" class="csl-entry">
+<div id="ref-browettetal2018frontiersingenetics1" class="csl-entry">
 
 Browett, S., **McHugo, G.**, Richardson, I.W., Magee, D.A., Park, S.D.E.,
 Fahey, A.G., Kearney, J.F., Correia, C.N., Randhawa, I.A.S. and MacHugh,
@@ -35,7 +35,7 @@ doi:[10.3389/fgene.2018.00051.s001](https://doi.org/10.3389/fgene.2018.00051.s00
 
 </div>
 
-<div id="ref-browett2018frontiersingenetics2" class="csl-entry">
+<div id="ref-browettetal2018frontiersingenetics2" class="csl-entry">
 
 Browett, S., **McHugo, G.**, Richardson, I.W., Magee, D.A., Park, S.D.E.,
 Fahey, A.G., Kearney, J.F., Correia, C.N., Randhawa, I.A.S. and MacHugh,
@@ -45,7 +45,7 @@ doi:[10.3389/fgene.2018.00051.s002](https://doi.org/10.3389/fgene.2018.00051.s00
 
 </div>
 
-<div id="ref-browett2018frontiersingenetics3" class="csl-entry">
+<div id="ref-browettetal2018frontiersingenetics3" class="csl-entry">
 
 Browett, S., **McHugo, G.**, Richardson, I.W., Magee, D.A., Park, S.D.E.,
 Fahey, A.G., Kearney, J.F., Correia, C.N., Randhawa, I.A.S. and MacHugh,
@@ -55,7 +55,7 @@ doi:[10.3389/fgene.2018.00051.s003](https://doi.org/10.3389/fgene.2018.00051.s00
 
 </div>
 
-<div id="ref-browett2019dryad" class="csl-entry">
+<div id="ref-browettetal2019dryad" class="csl-entry">
 
 Browett, S., **McHugo, G.**, Richardson, I.W., Magee, D.A., Park, S.D.E.,
 Fahey, A.G., Kearney, J.F., Correia, C.N., Randhawa, I.A.S. and MacHugh,
@@ -65,7 +65,7 @@ doi:[10.5061/dryad.8FK81](https://doi.org/10.5061/dryad.8FK81).
 
 </div>
 
-<div id="ref-correia2022biorxiv" class="csl-entry">
+<div id="ref-correiaetal2022biorxiv" class="csl-entry">
 
 Correia, C.N., **McHugo, G.P.**, Browne, J.A., McLoughlin, K.E., Nalpas,
 N.C., Magee, D.A., Whelan, A.O., Villarreal-Ramos, B., Vordermeier,
@@ -77,7 +77,8 @@ doi:[10.1101/2022.04.19.488769](https://doi.org/10.1101/2022.04.19.488769).
 
 </div>
 
-<div id="ref-dover2021irishjournalofmedicalscience" class="csl-entry">
+<div id="ref-doveretal2021irishjournalofmedicalscience"
+class="csl-entry">
 
 Dover, M.J., Hall, T.J., **McHugo, G.P.** and MacHugh, D.E. (2021) ‘A
 functional and integrative genomics analysis of host response to disease
@@ -89,7 +90,7 @@ doi:[10.1007/s11845-021-02718-9](https://doi.org/10.1007/s11845-021-02718-9).
 
 </div>
 
-<div id="ref-hall2019researchgate" class="csl-entry">
+<div id="ref-halletal2019researchgate" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., Killick, K.E., **McHugo, G.P.**, Browne, J.A.,
 Correia, C.N., Gordon, S.V. and MacHugh, D.E. (2019) ‘Integrative
@@ -100,7 +101,7 @@ doi:[10.13140/rg.2.2.17194.36807](https://doi.org/10.13140/rg.2.2.17194.36807).
 
 </div>
 
-<div id="ref-hall2021dryad" class="csl-entry">
+<div id="ref-halletal2021dryad" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Berry, D.P.,
 Ring, S.C., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -111,7 +112,7 @@ doi:[10.5061/dryad.83BK3J9Q6](https://doi.org/10.5061/dryad.83BK3J9Q6).
 
 </div>
 
-<div id="ref-hall2020biorxiv" class="csl-entry">
+<div id="ref-halletal2020biorxiv" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -121,7 +122,7 @@ doi:[10.1101/2020.08.25.266668](https://doi.org/10.1101/2020.08.25.266668).
 
 </div>
 
-<div id="ref-hall2020researchsquare" class="csl-entry">
+<div id="ref-halletal2020researchsquare" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -131,7 +132,7 @@ doi:[10.21203/rs.3.rs-121955/v1](https://doi.org/10.21203/rs.3.rs-121955/v1).
 
 </div>
 
-<div id="ref-hall2021bmcgenomics1" class="csl-entry">
+<div id="ref-halletal2021bmcgenomics1" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -142,7 +143,7 @@ doi:[10.6084/m9.figshare.14583719](https://doi.org/10.6084/m9.figshare.14583719)
 
 </div>
 
-<div id="ref-hall2021bmcgenomics2" class="csl-entry">
+<div id="ref-halletal2021bmcgenomics2" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -153,7 +154,7 @@ doi:[10.6084/m9.figshare.14583722](https://doi.org/10.6084/m9.figshare.14583722)
 
 </div>
 
-<div id="ref-hall2021bmcgenomics3" class="csl-entry">
+<div id="ref-halletal2021bmcgenomics3" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -164,7 +165,7 @@ doi:[10.6084/m9.figshare.14583725](https://doi.org/10.6084/m9.figshare.14583725)
 
 </div>
 
-<div id="ref-hall2021bmcgenomics4" class="csl-entry">
+<div id="ref-halletal2021bmcgenomics4" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -175,7 +176,7 @@ doi:[10.6084/m9.figshare.14583728](https://doi.org/10.6084/m9.figshare.14583728)
 
 </div>
 
-<div id="ref-hall2021bmcgenomics5" class="csl-entry">
+<div id="ref-halletal2021bmcgenomics5" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -186,7 +187,7 @@ doi:[10.6084/m9.figshare.14583731](https://doi.org/10.6084/m9.figshare.14583731)
 
 </div>
 
-<div id="ref-hall2021bmcgenomics6" class="csl-entry">
+<div id="ref-halletal2021bmcgenomics6" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -197,7 +198,7 @@ doi:[10.6084/m9.figshare.14583734](https://doi.org/10.6084/m9.figshare.14583734)
 
 </div>
 
-<div id="ref-hall2021bmcgenomics7" class="csl-entry">
+<div id="ref-halletal2021bmcgenomics7" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -208,7 +209,7 @@ doi:[10.6084/m9.figshare.14583740](https://doi.org/10.6084/m9.figshare.14583740)
 
 </div>
 
-<div id="ref-hall2021bmcgenomics8" class="csl-entry">
+<div id="ref-halletal2021bmcgenomics8" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -219,7 +220,7 @@ doi:[10.6084/m9.figshare.14583743](https://doi.org/10.6084/m9.figshare.14583743)
 
 </div>
 
-<div id="ref-hall2021bmcgenomics" class="csl-entry">
+<div id="ref-halletal2021bmcgenomics" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -229,7 +230,7 @@ doi:[10.1186/s12864-021-07643-w](https://doi.org/10.1186/s12864-021-07643-w).
 
 </div>
 
-<div id="ref-hall2021figshare" class="csl-entry">
+<div id="ref-halletal2021figshare" class="csl-entry">
 
 Hall, T.J., Mullen, M.P., **McHugo, G.P.**, Killick, K.E., Ring, S.C.,
 Berry, D.P., Correia, C.N., Browne, J.A., Gordon, S.V. and MacHugh, D.E.
@@ -241,20 +242,20 @@ doi:[10.6084/m9.figshare.c.5422454](https://doi.org/10.6084/m9.figshare.c.542245
 
 <div id="ref-mchugo2015trinitycollegedublin" class="csl-entry">
 
-**McHugo, G.** (2015) *Mytilus edulis as a bioindicator of water pollution:
+**McHugo, G.** (2015) ‘*Mytilus* *edulis* as a bioindicator of water pollution:
 Potential histopathology biomarkers in Dublin Bay and Newquay, Co.
-Clare*. BA (Mod) thesis. Trinity College Dublin.
+Clare’. Trinity College Dublin.
 
 </div>
 
 <div id="ref-mchugo2016universitycollegedublin" class="csl-entry">
 
-**McHugo, G.** (2016) *A population genomic analysis of the endangered
-Galway sheep breed*. MSc thesis. University College Dublin.
+**McHugo, G.** (2016) ‘A population genomic analysis of the endangered
+Galway sheep breed’. University College Dublin.
 
 </div>
 
-<div id="ref-mchugo2019biorxiv" class="csl-entry">
+<div id="ref-mchugoetal2019biorxiv" class="csl-entry">
 
 **McHugo, G.P.**, Browett, S., Randhawa, I.A.S., Howard, D.J., Mullen, M.P.,
 Richardson, I.W., Park, S.D.E., Magee, D.A., Scraggs, E., Dover, M.,
@@ -264,7 +265,7 @@ doi:[10.1101/645754](https://doi.org/10.1101/645754).
 
 </div>
 
-<div id="ref-mchugo2019frontiersingenetics" class="csl-entry">
+<div id="ref-mchugoetal2019frontiersingenetics" class="csl-entry">
 
 **McHugo, G.P.**, Browett, S., Randhawa, I.A.S., Howard, D.J., Mullen, M.P.,
 Richardson, I.W., Park, S.D.E., Magee, D.A., Scraggs, E., Dover, M.J.,
@@ -275,7 +276,7 @@ doi:[10.3389/fgene.2019.00927](https://doi.org/10.3389/fgene.2019.00927).
 
 </div>
 
-<div id="ref-mchugo2019frontiersingenetics1" class="csl-entry">
+<div id="ref-mchugoetal2019frontiersingenetics1" class="csl-entry">
 
 **McHugo, G.P.**, Browett, S., Randhawa, I.A.S., Howard, D.J., Mullen, M.P.,
 Richardson, I.W., Park, S.D.E., Magee, D.A., Scraggs, E., Dover, M.J.,
@@ -286,7 +287,7 @@ doi:[10.3389/fgene.2019.00927.s001](https://doi.org/10.3389/fgene.2019.00927.s00
 
 </div>
 
-<div id="ref-mchugo2019bmcbiology" class="csl-entry">
+<div id="ref-mchugoetal2019bmcbiology" class="csl-entry">
 
 **McHugo, G.P.**, Dover, M.J. and MacHugh, D.E. (2019) ‘Unlocking the
 origins and biology of domestic animals using ancient DNA and
@@ -295,7 +296,7 @@ doi:[10.1186/s12915-019-0724-7](https://doi.org/10.1186/s12915-019-0724-7).
 
 </div>
 
-<div id="ref-mchugo2019humanheredity" class="csl-entry">
+<div id="ref-mchugoetal2019humanheredity" class="csl-entry">
 
 **McHugo, G.P.**, O’Gorman, G.M., Hill, E.W. and MacHugh, D.E. (2019) ‘Local
 ancestry and functional genomics of trypanotolerant and
@@ -306,7 +307,7 @@ doi:[10.1159/000499459](https://doi.org/10.1159/000499459).
 
 </div>
 
-<div id="ref-saura2020frontiersingenetics" class="csl-entry">
+<div id="ref-sauraetal2020frontiersingenetics" class="csl-entry">
 
 Saura, M., Bertolini, F. and Palaiokostas, C. (eds) (2020) ‘Genetic
 variability in conservation and selection programs in the post-genomics
@@ -315,7 +316,7 @@ doi:[10.3389/978-2-88966-249-4](https://doi.org/10.3389/978-2-88966-249-4).
 
 </div>
 
-<div id="ref-ward2021biorxiv" class="csl-entry">
+<div id="ref-wardetal2021biorxiv" class="csl-entry">
 
 Ward, J.A., **McHugo, G.P.**, Dover, M.J., Hall, T.J., Ng’ang’a, S.I.,
 Sonstegard, T.S., Bradley, D.G., Frantz, L.A.F., Salter-Townshend, M.
@@ -326,14 +327,36 @@ doi:[10.1101/2021.08.26.457829](https://doi.org/10.1101/2021.08.26.457829).
 
 </div>
 
-<div id="ref-ward2022ssrn" class="csl-entry">
+<div id="ref-wardetal2022ssrn" class="csl-entry">
 
 Ward, J.A., **McHugo, G.P.**, Dover, M.J., Hall, T.J., Ng’ang’a, S.I.,
 Sonstegard, T.S., Bradley, D.G., Frantz, L.A.F., Salter-Townshend, M.
-and MacHugh, D.E. (2022) ‘Genome-wide local ancestry and direct evidence
-for mitonuclear coadaptation in African hybrid cattle populations (*Bos*
-*taurus*/*indicus*)’. SSRN.
+and MacHugh, D.E. (2022a) ‘Genome-wide local ancestry and direct
+evidence for mitonuclear coadaptation in African hybrid cattle
+populations (*Bos* *taurus*/*indicus*)’. SSRN.
 doi:[10.2139/ssrn.4055643](https://doi.org/10.2139/ssrn.4055643).
+
+</div>
+
+<div id="ref-wardetal2022mendeleydata" class="csl-entry">
+
+Ward, J.A., **McHugo, G.P.**, Dover, M.J., Hall, T.J., Ng’ang’a, S.I.,
+Sonstegard, T.S., Bradley, D.G., Frantz, L.A.F., Salter-Townshend, M.
+and MacHugh, D.E. (2022b) ‘Genome-wide local ancestry and evidence for
+mitonuclear co-adaptation in African hybrid cattle populations (*Bos*
+*taurus*/*indicus*). Ward *et al*. 2022’. Mendeley Data.
+doi:[10.17632/yt3tgpt48d](https://doi.org/10.17632/yt3tgpt48d).
+
+</div>
+
+<div id="ref-wardetal2022iscience" class="csl-entry">
+
+Ward, J.A., **McHugo, G.P.**, Dover, M.J., Hall, T.J., Ng’ang’a, S.I.,
+Sonstegard, T.S., Bradley, D.G., Frantz, L.A.F., Salter-Townshend, M.
+and MacHugh, D.E. (2022c) ‘Genome-wide local ancestry and evidence for
+mitonuclear coadaptation in African hybrid cattle populations’,
+*iScience*, 25(7), p. 104672.
+doi:[10.1016/j.isci.2022.104672](https://doi.org/10.1016/j.isci.2022.104672).
 
 </div>
 

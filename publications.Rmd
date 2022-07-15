@@ -25,7 +25,10 @@ README <- stri_replace_all_regex(
               "taurus",
               "Mycobacterium",
               "bovis",
-              "tuberculosis"),
+              "tuberculosis",
+              "Mytilus",
+              "edulis",
+              "et al"),
   replacement = c("**McHugo, G.P.**",
                   "**McHugo, G.** ",
                   "**McHugo, G.**,",
@@ -34,7 +37,10 @@ README <- stri_replace_all_regex(
                   "*taurus*",
                   "*Mycobacterium*",
                   "*bovis*",
-                  "*tuberculosis*"),
+                  "*tuberculosis*",
+                  "*Mytilus*",
+                  "*edulis*",
+                  "*et al*"),
   vectorize = F)
 
 writeLines(README, "README.md")
