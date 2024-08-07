@@ -1,0 +1,44 @@
+---
+output: github_document
+bibliography: publications.bib
+csl: apa-custom.csl
+nocite: '@*'
+---
+[orcid.org/0000-0001-6920-0041](https://orcid.org/0000-0001-6920-0041)
+
+```{r, include = F}
+# install and load package
+if (!require(stringi)) install.packages("stringi")
+library(stringi)
+
+# read readme
+publications <- readLines("publications.md")
+
+# edit readme
+publications <- stri_replace_all_regex(
+  publications,
+  pattern = c("McHugo, G. P.",
+              "McHugo, G.,",
+              "McHugo, G. \\(",
+              "Mycobacterium tuberculosis in",
+              "Mycobacterium bovis in cattle",
+              "Mycobacterium bovis across an experimental time course. \\*Tuberculosis",
+              "M. Bovis",
+              "\\*83\\*, 250",
+              "\\*190\\*, S135–S136"
+              ),
+  replacement = c("**McHugo, G. P.**",
+                  "**McHugo, G.**,",
+                  "**McHugo, G.** (",
+                  "*Mycobacterium tuberculosis* in",
+                  "*Mycobacterium bovis* in cattle",
+                  "*Mycobacterium bovis* across an experimental time course. *Tuberculosis",
+                  "M. bovis",
+                  "*83*(5), 250",
+                  "*190*(Supplement 4), S135–S136"
+                  ),
+  vectorize = F)
+
+# write readme
+writeLines(publications, "README.md")
+```
