@@ -1,0 +1,7 @@
+*.Rproj
+*.Rhistory
+.Rproj.user/
+publications.md
+publications.html
+publications.knit.md
+publications-orcid.bib
